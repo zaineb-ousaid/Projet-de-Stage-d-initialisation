@@ -1,0 +1,92 @@
+*{
+	margin: 0;
+	padding: 0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+body{
+	background-color: white;
+}
+.main{
+	width: 1090px ;
+	background-color: #eee;
+	margin: 50px auto;
+	padding: 20px;
+	box-shadow: 2px 3px 10px #555;
+	border-radius: 5px;
+}
+header{
+	text-align: center;
+	color: #333;
+}
+.success{
+	font-size: 25px;
+	color: #c44;
+	padding: 10px;
+}
+form{
+	padding: 10px;
+}
+.inp,.pol{
+	width: 280px;
+	padding: 12px;
+	margin-bottom: 5px;
+	font-size: 12px;
+	border: 2px solid #777;
+	border-bottom: 4px solid #777;
+
+	
+}
+.inp:focus{
+	outline: none;
+	border-color: #444;
+}
+
+.sub-btn{
+    padding: 16px;
+    border: none;
+	font-size: 20px;
+	background-color: rgb(30, 8, 153);
+	color: #fff;
+	cursor: pointer;
+	border-bottom: 4px solid rgb(30, 8, 153);
+	border-radius: 20px;
+    display: inline;
+    vertical-align: middle;
+	 margin-left: 23em;
+
+}
+
+.sub-btn:focus{
+	outline: none;
+	background-color: #424558;
+}
+.pd{
+	padding-left: 20px;
+
+}
+
+.inpp{
+    
+    width: 300px;
+	padding: 12px;
+	font-size: 12px;
+	border: 2px solid #777;
+    border-bottom: 4px solid #777;
+    
+      }
+    .right-btn{
+    padding: 15px;
+    border: none;
+	font-size: 15px;
+	background-color: rgb(30, 8, 153);
+	color: #fff;
+	cursor: pointer;
+	border-bottom: 4px solid rgb(30, 8, 153);
+	border-radius: 20px;
+    display: inline;
+    vertical-align: middle;
+	 margin-left: 2xp;
+	  }
+	  
